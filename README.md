@@ -1,4 +1,4 @@
-# Drowsy man detected
+# Drowsy man detector
 
 A computer vision system that can automatically detect driver drowsiness in a real-time video stream and then warning if the driver appears to be drowsy.
 

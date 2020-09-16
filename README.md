@@ -9,3 +9,4 @@ Using pre-trained Haar cascade for localizing faces and dlib’s shape predictor
 
 Because of using Eye Aspect Ratio and Mouth Aspect Ratio thresholds, the system need to be adjusted that thresholds to fit with each person.
 
+![alt text](https://github.com/daoducanhc/drowsy_man_detected_/blob/master/1.PNG) ![alt text](https://github.com/daoducanhc/drowsy_man_detected_/blob/master/2.PNG)
